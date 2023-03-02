@@ -2,7 +2,7 @@
 
 🎯 I’m interested in Frontend Frameworks and Fullstack development!
 
-🌱 I’m currently learning React, Node, MongoDB and Firebase!
+🌱 I’m currently learning React, Node, MongoDB!
 
 <!---
 Robincredible/Robincredible is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
