@@ -1,8 +1,4 @@
-👋 Hi, I’m @Robincredible
-
-🎯 I’m interested in Frontend Frameworks and Fullstack development!
-
-🌱 I’m currently learning React, Node, MongoDB!
+🌱 I’m currently building something...
 
 <!---
 Robincredible/Robincredible is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
